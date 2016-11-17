@@ -1,0 +1,13 @@
+{
+  "name": "videojs-framerate",
+  "author": "River Campus Libraries",
+  "license": "MIT",
+  "main": [
+    "dist/videojs-framerate.min.js"
+  ],
+  "keywords": [
+    "videojs",
+    "videojs-plugin"
+  ]
+}
+
